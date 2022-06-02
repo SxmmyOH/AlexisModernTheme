@@ -1,15 +1,20 @@
 /**
- * @name Alexis Modern Discord Theme
- * @author Alexis | WyvernZu#0001
- * @authorLink https://twitter.com/WyvernZu
- * @version 21.07.22
- * @description A decluttered, simple, and modern theme for Discord.
- * @source https://github.com/AlexisJonsson/AlexisJonsson.github.io/tree/master/BetterDiscordAddons/Themes
- * @website https://alexisjonsson.com/
-*/
+ * @name Alexis Modern Theme
+ * @author AlexisJonsson, OlavWolfiken
+ * @authorId 
+ * @authorLink https://github.com/OlavWolfiken
+ * @version AutoUpdate (Fork)
+ * @description A decluttered, simple, and modern theme for BetterDiscord, made by [AlexisJonsson](https://github.com/AlexisJonsson), forked by [OlavWolfiken](https://github.com/OlavWolfiken).
+ * @website https://olavwolfiken.github.io/BetterDiscord/
+ * @source https://github.com/OlavWolfiken/AlexisModernTheme/
+ * @invite RYsm9RWv66
+ * @donate 
+ * @patreon 
+ * @updateUrl https://github.com/OlavWolfiken/AlexisModernTheme/alexis-modern.theme.css
+**/
 
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
-@import url("https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css");
+@import url("https://olavwolfiken.github.io/AlexisModernTheme/alexis-modern.source.css");
+@import url("https://onkofonko.github.io/theme/fixes.css");
 
 :root {
     /*My Account Button*/
